@@ -1,0 +1,15 @@
+C:\Users\andre.lima2\Desktop\prova.cs\bin\Debug\net7.0\prova.cs.exe
+C:\Users\andre.lima2\Desktop\prova.cs\bin\Debug\net7.0\prova.cs.deps.json
+C:\Users\andre.lima2\Desktop\prova.cs\bin\Debug\net7.0\prova.cs.runtimeconfig.json
+C:\Users\andre.lima2\Desktop\prova.cs\bin\Debug\net7.0\prova.cs.dll
+C:\Users\andre.lima2\Desktop\prova.cs\bin\Debug\net7.0\prova.cs.pdb
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.csproj.AssemblyReference.cache
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.AssemblyInfoInputs.cache
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.AssemblyInfo.cs
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.csproj.CoreCompileInputs.cache
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.dll
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\refint\prova.cs.dll
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.pdb
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\prova.cs.genruntimeconfig.cache
+C:\Users\andre.lima2\Desktop\prova.cs\obj\Debug\net7.0\ref\prova.cs.dll
